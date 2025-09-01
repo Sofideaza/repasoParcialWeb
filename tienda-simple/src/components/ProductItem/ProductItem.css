@@ -1,0 +1,19 @@
+.pi-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 12px;
+  display: grid;
+  gap: 8px;
+  background: #fafafa;
+}
+.pi-name { font-weight: 700; }
+.pi-price { color: #444; }
+.pi-btn {
+  border: 0;
+  padding: 8px 10px;
+  border-radius: 10px;
+  background: #22c55e;
+  color: #052e16;
+  font-weight: 700;
+  cursor: pointer;
+}

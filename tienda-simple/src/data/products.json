@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Café molido 250g", "price": 12000 },
+  { "id": 2, "name": "Té verde 20u",     "price": 9000  },
+  { "id": 3, "name": "Chocolate 70% 100g","price": 8000  },
+  { "id": 4, "name": "Galletas de avena", "price": 6000  }
+]
